@@ -1,9 +1,9 @@
-<h1 align="center">Hi 👋, I'm Preeti Kushwaha</h1>
+<h1 align="center">Hi 👋, I'm Preeti Kumari Kushwaha</h1>
 <h3 align="center">A passionate software engineer who enjoys learning new technologies</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=preetikushwaha1&label=Profile%20views&color=0e75b6&style=flat" alt="preetikushwaha1" /> </p>
 
-- 🌱 I’m currently learning **VBA, Python , Postgres**
+- 🌱 I’m currently learning **Python, Flask, Django Rest Framework, gRPC, Postgres, MongoDB, Redis, AWS Lambda, Kafka, Docker, CI/CD, **
 
 - 📫 How to reach me **kushwahapreeti233@gmail.com**
 
